@@ -12,4 +12,9 @@ Show how scammers design fake cashback websites.
 Spread awareness about UPI fraud, phishing sites, and online scams.
 
 Help people identify red flags before making online payments.
+🔑 Keywords (for search visibility)
 
+UPI scam UPI fraud demo cashback scam website fake cashback offer
+₹1 get ₹10 scam UPI fraud awareness educational phishing demo
+online payment scam fake QR code scam UPI awareness project
+cybersecurity awareness India fraud detection phishing demo site
