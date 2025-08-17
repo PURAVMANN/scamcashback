@@ -1,5 +1,6 @@
 # scamcashback
 This project is a demo of a common UPI cashback scam where users are tricked with offers like “Send ₹1 and Get ₹10 Instantly”.
+this is a scam site illegal money earn,etc
 ⚠️ Disclaimer:
 This project is created only for educational and cybersecurity awareness purposes.
 It does not contain any real payment processing. All UPI IDs, QR codes, and links are replaced with dummy placeholders.
